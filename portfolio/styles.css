@@ -1,0 +1,7 @@
+h2 {
+    animation: typing 3s steps(40, end);
+  }
+  
+  @keyframes typing {
+    from { width: 0 }
+  }
