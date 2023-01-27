@@ -1,7 +1,16 @@
-h2 {
-    animation: typing 3s steps(40, end);
-  }
-  
-  @keyframes typing {
-    from { width: 0 }
-  }
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+
+
+.container{
+	width: 100%;
+	height: 100vh;
+	background: #2b323c;
+	color: #ffff;
+
+}
