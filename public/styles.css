@@ -9,11 +9,12 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 1.6px;
+      padding: 4px;
     }
     header h1 {
       margin: 0;
       color: white;
+      font-size: 188%;
     }
     header nav ul {
       list-style: none;
@@ -23,6 +24,7 @@
     }
     header nav ul li {
       margin: 0 5px;
+      font-size: 90%;
     }
     header nav ul li a {
       color: white;
@@ -45,4 +47,9 @@
     }
     .home, * {
       color: #145;
-  
+    }
+
+    *{
+      font-size: 104%;
+    }
+    
