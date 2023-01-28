@@ -4,7 +4,7 @@
       padding: 0;
     }
     header {
-      background-color: #145;
+      background-color: #18414c;
       color: white;
       display: flex;
       align-items: center;
@@ -37,16 +37,17 @@
     }
     main h2 {
       margin: 20px 0;
+      font-size: 160%;
     }
     main a {
       color: #333;
       text-decoration: none;
     }
     main a:hover {
-      color: #145;
+      color: #18414c;
     }
     .home, * {
-      color: #145;
+      color: #18414c;
     }
 
     *{
