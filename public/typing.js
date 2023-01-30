@@ -12,3 +12,7 @@ function typeWriter() {
         document.getElementById("typing").innerHTML += caret;
     }
 }
+
+document.addEventListener("DOMContentLoaded", function(){
+    typeWriter();
+});
