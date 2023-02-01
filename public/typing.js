@@ -1,7 +1,7 @@
 var text = "hi, abdul here ";
 var i = 0;
 var caret = "|";
-var speed = 40;
+var speed = 115;
 var blinkSpeed = 300;
 var isVisible = true;
 

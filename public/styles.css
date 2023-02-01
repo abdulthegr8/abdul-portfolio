@@ -1,8 +1,8 @@
     body {
-      font-family: grandview;
+      font-family: monospace;
       margin: 0;
       padding: 0;
-      background-color: #053748;
+      background-color: #3c3c3c;
     }
     header {
       background-color: #096e90;
@@ -39,7 +39,7 @@
     }
     main h2 {
       margin: 20px 0;
-      font-size: 160%;
+      font-size: 210%;
     }
     main a {
       color: white;
