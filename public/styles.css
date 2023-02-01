@@ -5,7 +5,7 @@
       background-color: #18414c;
     }
     header {
-      background-color: #18420c;
+      background-color: black;
       color: white;
       display: flex;
       align-items: center;
@@ -56,3 +56,11 @@
       font-size: 104%;
     }
     
+    footer p {
+    font-size: 12px;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    }
+
+
