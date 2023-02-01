@@ -1,11 +1,11 @@
     body {
-      font-family: monospace;, sans-serif;
+      font-family: grandview;
       margin: 0;
       padding: 0;
-      background-color: black;
+      background-color: #053748;
     }
     header {
-      background-color: cadetblue;
+      background-color: #096e90;
       color: white;
       display: flex;
       align-items: center;
