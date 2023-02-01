@@ -62,5 +62,10 @@
     text-align: center;
     padding: 20px 0;
     }
+    .rounded-corner-image {
+    border-radius: 5%;
+    width: 400px;
+    height: 400px;
+    }
 
 
