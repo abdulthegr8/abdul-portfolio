@@ -1,12 +1,13 @@
 #right-nav {
   position: fixed;
-  top: 0;
+  top: 1;
   right: 0;
   bottom: 0;
   background-color: transparent;
-  padding: 10px;
+  padding: 5px;
   display: flex;
   align-items: center;
+  font-size: 20px;
 }
 
 #right-nav ul {
