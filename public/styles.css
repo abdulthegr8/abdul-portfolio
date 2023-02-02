@@ -41,6 +41,10 @@
       margin: 20px 0;
       font-size: 210%;
     }
+    main h3 {
+      font-size: 135%;
+      color: navajowhite;
+    }
     main a {
       color: white;
       text-decoration: none;
