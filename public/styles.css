@@ -81,5 +81,23 @@
     transform: translateY(-10px);
     }
 
+    .logo-container a {
+    display: inline-block;
+    transition: transform 0.3s ease;
+    }
+
+    .logo-container a:hover {
+    transform: translateY(-5px);
+    }
+    
+    h3 {
+    transition: transform 0.3s ease;
+    }
+
+    h3:hover {
+    transform: translateY(-5px);
+    }
+
+
 
 
