@@ -119,7 +119,7 @@
     @media only screen and (max-width: 780px) {
   /* Make the container fluid */
     .container {
-    width: 100%;
+    width: 5%;
     padding: 0 15px;
     }
 
