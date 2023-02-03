@@ -115,6 +115,23 @@
     width: 20%;
     }
 
+    .container {
+    display: flex;
+    flex-wrap: wrap;
+    }
+
+    .col {
+    flex: 1;
+    margin: 10px;
+    }
+    
+    /* Media query for screens below 600px */
+    @media (max-width: 600px) {
+    .col {
+    flex: 100%;
+    }
+    }
+
 
 
 
