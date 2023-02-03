@@ -104,6 +104,18 @@
     top: -2px;
     }
 
+    section {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    }
+
+    hr {
+    border-top: 0.3px white;
+    margin: 50px auto;
+    width: 20%;
+    }
+
+
 
 
 
