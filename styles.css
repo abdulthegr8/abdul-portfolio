@@ -116,7 +116,7 @@
     }
 
     /* Mobile styles */
-    @media only screen and (max-width: 767px) {
+    @media only screen and (max-width: 780px) {
   /* Make the container fluid */
     .container {
     width: 100%;
