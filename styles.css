@@ -116,29 +116,29 @@
     }
 
     @media only screen and (max-width: 800px) {
-      body {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      }
-      .rounded-corner-image {
-      border-radius: 17%;
-      width: 400px;
-      height: 400px;
-      object-fit: scale-down;
-      float: none;
-      margin: 0 auto;
-      transition: transform 0.3s;
-      position: relative;
-      display: block;
-      margin-top: 20px;
-      }
+    body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    }
+    .rounded-corner-image {
+    border-radius: 17%;
+    width: 400px;
+    height: 400px;
+    object-fit: scale-down;
+    float: none;
+    margin: 0 auto;
+    transition: transform 0.3s;
+    position: relative;
+    display: block;
+    margin-top: 20px;
+    }
 
-      .rounded-corner-image:hover {
-        transform: translateY(-10px);
-      }
-      }
+    .rounded-corner-image:hover {
+      transform: translateY(-10px);
+    }
+    }
 
 
 
