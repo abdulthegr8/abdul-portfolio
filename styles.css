@@ -115,64 +115,7 @@
     width: 20%;
     }
 
-    /* Mobile styles */
-    @media only screen and (max-width: 780px) {
-  /* Make the container fluid */
-    .container {
-    width: 5%;
-    padding: 0 15px;
-    }
-
-  /* Responsive navigation bar */
-    .navbar {
-    padding: 20px 0;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
-    }
     
-    .navbar a {
-    font-size: 18px;
-    }
-    
-    .navbar .navbar-brand {
-    font-size: 22px;
-    margin-right: 20px;
-    }
-
-    .navbar .navbar-toggle {
-    display: block;
-    margin-top: 10px;
-    }
-
-  /* Responsive grid layout */
-    .row {
-    flex-wrap: wrap;
-    }
-  
-    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12 {
-    width: 100%;
-    }
-
-  /* Responsive images */
-    img {
-    width: 100%;
-    height: auto;
-    }
-
-  /* Responsive typography */
-    h1, h2, h3, h4, h5, h6 {
-    font-size: 20px;
-    line-height: 1.2;
-    }
-
-    p {
-    font-size: 16px;
-    line-height: 1.5;
-    }
-    }
-
 
 
 
