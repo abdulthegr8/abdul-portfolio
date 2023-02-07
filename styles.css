@@ -116,8 +116,8 @@
     }
 
     @media (max-width: 767px) {
-    #right-nav {
-    display: none;
+      #right-nav {
+        display: none;
     }
     }
 
