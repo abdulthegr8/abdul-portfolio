@@ -115,6 +115,13 @@
     width: 20%;
     }
 
+    @media (max-width: 767px) {
+    .navbar {
+    display: none;
+    }
+    }
+
+
 
 
 
