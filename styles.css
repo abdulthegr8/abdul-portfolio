@@ -116,7 +116,7 @@
     }
 
     @media (max-width: 767px) {
-    .navbar {
+    #right-nav {
     display: none;
     }
     }
