@@ -115,11 +115,11 @@
     width: 20%;
     }
 
-    @media (max-width: 767px) {
+    @media (max-width: 780px) {
     .rounded-corner-image {
     float: none;
     margin-right: 0;
-    margin-top: 30px;
+    margin-top: 440px;
     display: block;
     margin: 0 auto;
   }
