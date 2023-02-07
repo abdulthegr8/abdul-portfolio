@@ -22,3 +22,10 @@
   margin-bottom: 10px;
 }
 
+
+@media screen and (max-width: 780px)
+{
+  #right-nav {
+    display: none;
+  }
+}

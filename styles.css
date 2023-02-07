@@ -115,11 +115,15 @@
     width: 20%;
     }
 
-    @media (max-width: 767px) {
+    @media screen and (max-width: 780px)
+    {
       #right-nav {
         display: none;
+      }
+
     }
-    }
+
+
 
 
 
