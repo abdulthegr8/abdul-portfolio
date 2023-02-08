@@ -117,9 +117,9 @@
 
     @media (max-width: 780px) {
     .rounded-corner-image {
-      display: none;
+    width: 80%;
     }
-}
+    }
 
 
 
